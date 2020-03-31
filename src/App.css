@@ -66,3 +66,31 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.container .pokemon__image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container .pokemon__attacks {
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  justify-content: space-between;
+}
+
+.container .pokemon__attacks span {
+  width: 30%;
+  background-color: #f16820;
+  border-radius: 3px;
+  padding: 7px;
+  font-weight: 700;
+  color: #fff;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 12px;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+  text-align: center;
+  line-height: 15px;
+}
