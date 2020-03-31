@@ -43,6 +43,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Get Less/More Results
+
+Insider container/PokemonContainer.js, change the value of the variable 'first' to get desired amount of results.
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
